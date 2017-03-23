@@ -12,7 +12,7 @@ import factory.abstractfactory.product.ProductB;
  * 抽象工厂模式算是工厂相关模式的终极形态，如果完全理解了上一章的工厂方法模式，
  * 那么抽象工厂模式就很好理解了。它与工厂方法唯一的区别就是工厂的接口里是一系列创造抽象产品的方法，
  * 而不再是一个，而相应的，抽象产品也不再是一个了，而是一系列相关的产品。这其实是工厂方法模式的一种扩展。
- *
+ * 
  */
 public class AbstractfactoryTest {
 	
