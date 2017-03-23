@@ -1,4 +1,4 @@
-package ProductB2.java;
+package factory.Product;
 
 public class ProductA1 implements ProductA {
 
